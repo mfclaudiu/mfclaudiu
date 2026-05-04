@@ -12,7 +12,7 @@ Full-stack developer building AI automation systems, SaaS platforms, compliance 
 - Stripe/payment workflows
 - High-performance business websites
 - SEO-focused web platforms
-- AI-assisted calculators, translators, and content tools
+- AI-assisted calculators and business tools
 
 ## Featured Projects
 
@@ -56,10 +56,10 @@ Romanian tax guide platform with fiscal calculators, tax content, AI-ready searc
 
 ---
 
-### ContaiQ Romanian-English Translator
-Bilingual Romanian-English translation platform built for accounting and business use cases, with OCR, PDF export, copy-to-clipboard workflows, and WhatsApp business CTA.
+### ContaiQ — Accounting Firm Website
+Professional bilingual website built for a Romanian accounting firm, with service pages, business-focused copy, contact/WhatsApp conversion paths, and a clean presentation for accounting, tax, payroll, and company administration services.
 
-**Tech:** Astro, TypeScript, Tesseract.js OCR, PDF Export, Google Cloud Vision Planning, Responsive UI  
+**Tech:** Astro, TypeScript, Responsive UI, SEO Content Structure, Contact/WhatsApp CTA, Business Website Architecture  
 **Website:** https://contaiq.ro
 
 ---
